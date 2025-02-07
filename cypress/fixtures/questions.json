@@ -1,12 +1,20 @@
 [
-    {
-      "question": "What is 2 + 2?",
-      "answers": ["3", "4", "5", "6"],
-      "correctAnswer": "4"
-    },
-    {
-      "question": "What is 3 + 3?",
-      "answers": ["5", "6", "7", "8"],
-      "correctAnswer": "6"
-    }
-  ]
+  {
+    "question": "What is 2 + 2?",
+    "answers": [
+      { "text": "3", "isCorrect": false },
+      { "text": "4", "isCorrect": true },
+      { "text": "5", "isCorrect": false },
+      { "text": "6", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is 3 + 3?",
+    "answers": [
+      { "text": "1", "isCorrect": false },
+      { "text": "6", "isCorrect": true },
+      { "text": "3", "isCorrect": false },
+      { "text": "2", "isCorrect": false }
+    ]
+  }
+]

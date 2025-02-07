@@ -35,7 +35,8 @@
     {
       "path": "./client"
     },
-    {
-      "path": "./cypress"
-    }]
+    ],
+    "include": [
+      "cypress/**/*.ts"  // Ensure this is added
+    ]
 }
