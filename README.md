@@ -22,10 +22,11 @@ Technologies Used
 - CYPRESS
 
 Screenshots:
-Coming Soon
+[ComponetTesting](https://i.postimg.cc/gc3Pxp8q/componet-Testing.jpg)
+[E2E testing](https://i.postimg.cc/7hkd3C01/e2e.jpg)
 
 View Demo:
-[Link](coming soon)
+[Link](https://drive.google.com/file/d/1ajfrq9JWllK-dH6bwZQbBDta_l_5RFYg/view?usp=sharing)
 
 Table of Contents
 - Installation
@@ -36,10 +37,13 @@ Table of Contents
 - Acceptance Criteria
 
 Installation
-Coming soon
-
-Usage
-Coming soon
+- git clone the repo
+- cd tech-quiz
+- npm install
+- npm run dev
+- npm run test:component
+- npm run test:e2e
+- npm run cypress
 
 Credits
 Contributors
@@ -47,11 +51,13 @@ Contributors
 - Starter code: University of Denver
 
 Resources
+- [Cypress Documentation](https://www.cypress.io/)
 - [GraphQL](https://graphql.org/)
+- [Mongoose Documentation](https://mongoosejs.com/)
 - [MongoDB Installation Guide](https://coding-boot-camp.github.io/full-stack/mongodb/how-to-install-mongodb)
 - [MongoDB Documentation](https://www.mongodb.com/docs/v5.0/reference/method/cursor.toArray/)
 - [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-- [Mongoose Documentation](https://mongoosejs.com/)
+
 
 License
 This project is licensed under the MIT License.
